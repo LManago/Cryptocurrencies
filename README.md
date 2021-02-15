@@ -1,1 +1,5 @@
 # Cryptocurrencies
+
+##### Overview of Analysis
+
+The purpose of this project is to use unsupervised machine learning to analyze a database of cryptocurrencies. The main focus was to create a report including the traded cryptocurrencies being classified by group according to their features.The report could be used by an investment bank to propose a new cryptocurrency investment portfolio to clients.
